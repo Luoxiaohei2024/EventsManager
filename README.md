@@ -1,5 +1,5 @@
 <h1 align="center">EventManager</h1>
-<h2>Ra Commmand:</h1>
+<h2>Ra Command:</h1>
 
  - "ev" Main Command
  
