@@ -1,4 +1,4 @@
-<h1 align="center">EventManaer</h1>
+<h1 align="center">EventManager</h1>
 <h2>Ra Commmand:</h1>
 
  - "ev" Main Command
